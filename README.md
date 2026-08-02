@@ -2,3 +2,4 @@
 Throwaway probe for bebop ticket 12. Safe to delete.
 direct
 a
+b
